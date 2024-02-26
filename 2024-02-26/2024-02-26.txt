@@ -31,9 +31,22 @@ Problemas:
 1. Outlier -> valor muito extremo, que altera a média que é sensível)
 2. Dados missing (faltantes)
 
-MEDIANA: (posicional, não tem a sensibilidade da média)
+MEDIANA: 
+(posicional, não tem a sensibilidade da média)
 Dados ordenados
 
+2 8 15 17 22 -> 15 é a mediana
+2 4 7 8 15 80 -> a mediana é 7,5 (pega-se os valores do meio e divide por 2)
+
+
+FREQUÊNCIA:
+Absoluta (contagem)
+Relativa (n1...ni/total)
+
+Gráfico de frequência:
+
+*Fazer histograma manualmente:
+Precisamos de uma tabela de distribuição de frequência*
 
 
 
