@@ -44,6 +44,8 @@ Absoluta (contagem)
 Relativa (n1...ni/total)
 
 Gráfico de frequência:
+frequencia na vertical
+variável (acertos no exemplo) na horizontal
 
 *Fazer histograma manualmente:
 Precisamos de uma tabela de distribuição de frequência*
