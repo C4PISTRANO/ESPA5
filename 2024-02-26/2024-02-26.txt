@@ -10,8 +10,9 @@ Categóricas -> nominal
 	    -> ordinal
 	    
 	    
-*para 2M de dados
-como tirar informações:
+*para tratar 2M de dados*
+como tirar informações?
+como analisar?
 
 utilizando medidas resumo:
 média -> representação de um conjunto de dados de tendência central
