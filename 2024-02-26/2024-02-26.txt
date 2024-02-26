@@ -64,7 +64,7 @@ Dados categóricos:
 Exercícios para fazer:
 *Uma aula antes da prova serão discutidos.
 
-Trabalhando com  R:
+Trabalhando com R Studio:
 Não precisa de variáveis fortemente tipada
 o indice/posição começa em 1
 
@@ -76,3 +76,7 @@ o indice/posição começa em 1
 
 *para transformar um valor caracter em categorico ordinal
 criar nova variavel e utilizar 'factor(nomeVariavel, order = TRUE, levels = c(valor1, valor2, alor3)' para transformar em variaveis categoricas ordinais.
+
+*Dá pra fzer estrutura condicional if/else
+
+
