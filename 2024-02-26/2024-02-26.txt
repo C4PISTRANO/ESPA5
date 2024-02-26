@@ -79,4 +79,8 @@ criar nova variavel e utilizar 'factor(nomeVariavel, order = TRUE, levels = c(va
 
 *Dá pra fzer estrutura condicional if/else
 
+*Dá pra fazer upload de dados ou fazer uma conexão direta com SQL.
+
+*data(nomeBanco) -> Exemplos de bases dados públicos do R para tratar.
+
 
