@@ -43,9 +43,11 @@ FREQUÊNCIA:
 Absoluta (contagem)
 Relativa (n1...ni/total)
 
-Gráfico de frequência:
+Gráfico de frequência: (serve para termos a informação rápida)
 frequencia na vertical
 variável (acertos no exemplo) na horizontal
+
+*atenção na escala, o gráfico tem que ser proporcional
 
 *Fazer histograma manualmente:
 Precisamos de uma tabela de distribuição de frequência*
