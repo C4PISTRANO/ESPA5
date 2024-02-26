@@ -1,0 +1,21 @@
+ESPA5
+
+representação gráfica e medidas de tendência
+
+
+Numericas -> discreta (contagem)
+	  -> contínua (medida)
+	 
+Categóricas -> nominal
+	    -> ordinal
+	    
+	    
+*para 2M de dados
+como tirar informações:
+
+utilizando medidas resumo:
+média -> representação de um conjunto de dados de tendência central
+frequência -> 
+mediana
+quartil/percentil (analizar a cada 25% dos dados/um parte do todo, seguindo a ordem)
+ 
