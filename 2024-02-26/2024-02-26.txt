@@ -20,7 +20,7 @@ frequência ->
 mediana
 quartil/percentil (analizar a cada 25% dos dados/um parte do todo, seguindo a ordem)
  
-Tipos de MÉDIA: 
+MÉDIA: 
 ARITMÉTICA
 PONDERADA
 APARADA (excluir +-10% dos valores extremos)
@@ -49,8 +49,19 @@ variável (acertos no exemplo) na horizontal
 
 *atenção na escala, o gráfico tem que ser proporcional
 
-*Fazer histograma manualmente:
-Precisamos de uma tabela de distribuição de frequência*
+**Fazer histograma manualmente:
+Precisamos de uma tabela de distribuição de frequência**
 
+Exemplo de tabela de consumo kWh (Dados numéricos Contínuos):
+Juntar dados em classes (intervalos)
+para descobrir o número de classes, tira-se a raiz quadrada do valor total.
+
+
+Dados categóricos:
+(dados codificados com números,mas não são números na realidade)
+
+
+Exercícios para fazer:
+*Uma aula antes da prova serão discutidos.
 
 
