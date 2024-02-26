@@ -1,4 +1,4 @@
-ESPA5
+ESPA5 - Estatística e Probabilidade
 
 representação gráfica e medidas de tendência
 
@@ -20,3 +20,8 @@ frequência ->
 mediana
 quartil/percentil (analizar a cada 25% dos dados/um parte do todo, seguindo a ordem)
  
+Tipos de MÉDIA: 
+ARITMÉTICA
+PONDERADA
+APARADA (excluir +-10% dos valores extremos)
+GEOMÉTRICA
