@@ -24,4 +24,16 @@ Tipos de MÉDIA:
 ARITMÉTICA
 PONDERADA
 APARADA (excluir +-10% dos valores extremos)
-GEOMÉTRICA
+GEOMÉTRICA (utilizada com dados negativos para transformar em todos os dados em positivo - x²)
+MÓVEL (os dados são altaredos constantemente)
+
+Problemas:
+1. Outlier -> valor muito extremo, que altera a média que é sensível)
+2. Dados missing (faltantes)
+
+MEDIANA: (posicional, não tem a sensibilidade da média)
+Dados ordenados
+
+
+
+
