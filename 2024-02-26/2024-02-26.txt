@@ -82,5 +82,6 @@ criar nova variavel e utilizar 'factor(nomeVariavel, order = TRUE, levels = c(va
 *Dá pra fazer upload de dados ou fazer uma conexão direta com SQL.
 
 *data(nomeBanco) -> Exemplos de bases dados públicos do R para tratar.
-
+*view(nomeBanco -> mostrar a base de dados
+*str(nomeBanco) -> ver tipos de dados
 
