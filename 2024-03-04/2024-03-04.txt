@@ -61,9 +61,11 @@ Tamanho da caixa -> Fs = Q3(quartil 3) - Q1(quartil 1).
 COMO OBTER OS OUTLIERS?
 *o tamanho dos bigodes, representam quem será ou não Outlier.
 
-Via ser outlier tudo que tiver "1,5 x o tamanho da caixa"
+Via ser outlier tudo que tiver "1,5x o tamanho da caixa"
 
 O calculo dos bigodes serve para mostrar os limites (os limites não são dados reais, serão utilizados os valores anteriores aos limites)
+
+Algumas ferramentas marcam os valores de outliners extremos "3x o tamanho da caixa"
 
 
 
