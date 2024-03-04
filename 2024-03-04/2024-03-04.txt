@@ -41,5 +41,29 @@ Variância Amostral: divide por n-1
 Desvio Padrão Amostral: divide por n-1
 
 
-COEFICIENTE DE VARIAÇÃO:
+COEFICIENTE DE VARIAÇÃO (CV): *pra saber quem varia mais
+
+*6 medidas para calcular e saber como estõa dispersos os seus dados.
+
+Outlier -> valores muito distante dos outros. (nem todo valor diferente é outlier)
+*Tratar de forma diferente.
+
+Usar Box Plot para descrever características mais proeminentes.
+
+*que são os "bigodes" do BoxPlot.
+Menor valor ...... maior valor
+
+Tamanho da caixa -> Fs = Q3(quartil 3) - Q1(quartil 1).
+
+*Mediana -> ordenar os dados e pegar o valor da posição central (quantidade impar).
+			.......pegar média dos dois valores centrais (quantidade par)
+
+COMO OBTER OS OUTLIERS?
+*o tamanho dos bigodes, representam quem será ou não Outlier.
+
+Via ser outlier tudo que tiver "1,5 x o tamanho da caixa"
+
+O calculo dos bigodes serve para mostrar os limites (os limites não são dados reais, serão utilizados os valores anteriores aos limites)
+
+
 
