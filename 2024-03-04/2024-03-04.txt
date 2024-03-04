@@ -21,3 +21,25 @@ X Med = 51
 2...14 -> amplitude 12
 
 Desvio -> ver quanto cada valor está afastado do meio
+
+Exemplo Desvio:
+
+Xi 	Xi - Xmédio		XMédio = 50
+60	10
+55	5
+40	-10
+45	-5
+50	0
+
+
+Média Simples -> Soma todos/n = 0
+Cálculo -> Variância -> s² = Soma (Xi-XMedio)²/n
+
+desvio padrão é a raiz quadrada da variância -> S= raiz de S² 
+
+Variância Amostral: divide por n-1
+Desvio Padrão Amostral: divide por n-1
+
+
+COEFICIENTE DE VARIAÇÃO:
+
