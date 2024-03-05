@@ -1,0 +1,92 @@
+install.packages("dplyr")
+install.packages("ggplot2")
+library(ggplot2)
+library(dplyr)
+data(msleep)
+View()
+head(msleep)
+dim(msleep)
+summary(msleep)
+
+msleep$genus<-factor(msleep$genus)
+
+
+msleep$sleep_total
+
+var(msleep$sleep_total) #variação
+sd(msleep$sleep_total)  #desvio padrão
+mean(msleep$sleep_total) #média
+coef_var <- sd(msleep$sleep_total)/mean(msleep$sleep_total) #coeficiente de variação
+coef_var                                                    #coeficiente de variação
+
+coef_var_rem <- sd(msleep$sleep_rem, na.rm = TRUE)/mean(msleep$sleep_rem, na.rm = TRUE) #coeficiente de variação
+coef_var_rem                                                #coeficiente de variação
+
+hist(msleep$sleep_rem)               #histograma
+boxplot(msleep$sleep_rem)           #boxplot
+
+quantile(msleep$sleep_total)
+
+#Quantos animais dormem mais que 8 sum(msleep$sleep_total > 8)
+sum(msleep$sleep_total > 8)
+#Frequência relativa (proporção)
+mean(msleep$sleep_total > 8)
+#Para ignorar NA
+mean(msleep$sleep_rem, na.rm = TRUE)
+#Gráfico de dispersão
+plot(msleep$sleep_total, msleep$sleep_rem)
+#Com ggplot
+ggplot(msleep, aes(x = sleep_total, y = sleep_rem)) +
+  geom_point() #tipo de gráfico
+#Por grupos
+ggplot(msleep, aes(brainwt, sleep_total)) +
+  geom_point() +
+  xlab("Peso do cérebro (log)") + #label
+  ylab("Tempo de sono total") + #label
+  scale_x_log10() +
+  facet_wrap(~ vore)
+#Boxplot
+boxplot(sleep_total ~ vore, data = msleep)
+#Com ggplot
+ggplot(msleep, aes(vore, sleep_total)) +
+  geom_boxplot()
+
+
+#Histograma
+hist(msleep$sleep_total)
+#Com ggplot
+ggplot(msleep, aes(sleep_total)) +
+  geom_histogram()
+
+
+#Com frequência relativa
+ggplot(msleep) +
+  geom_histogram(mapping=aes(x=sleep_total, y=..count../sum(..count..)*100), bins=20, fill="blue") +
+  ggtitle("Tempo de sono total") +
+  xlab("Sono total (hora)") +
+  ylab("Frequência relativa")
+
+
+#Dados categóricos
+proportions(table(msleep$vore))
+#Contagens
+table(msleep$vore, msleep$conservation)
+#Proporção por linha
+proportions(table(msleep$vore, msleep$conservation), margin = 1)
+#Proporção por coluna
+proportions(table(msleep$vore, msleep$conservation),margin = 2)
+#Convertendo para variáveis factor
+msleep$vore <- factor(msleep$vore)
+msleep$conservation <- factor(msleep$conservation)
+summary(msleep)
+#Gráfico de barras
+barplot(table(msleep$vore))
+#Com ggplot
+ggplot(msleep, aes(vore)) +
+  geom_bar()
+
+
+#Barra horizontal
+ggplot(msleep, aes(vore)) +
+  geom_bar()+
+  coord_flip()

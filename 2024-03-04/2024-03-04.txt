@@ -65,7 +65,8 @@ Via ser outlier tudo que tiver "1,5x o tamanho da caixa"
 
 O calculo dos bigodes serve para mostrar os limites (os limites não são dados reais, serão utilizados os valores anteriores aos limites)
 
-Algumas ferramentas marcam os valores de outliners extremos "3x o tamanho da caixa"
+Algumas ferramentas marcam os valores de outliners extremos, usa-se o mesmo cálculo usando "3x o tamanho da caixa"
 
-
-
+TRABALHANDO COM R:
+Mudar escla de linear para logaritima log10()
+Separar Face warp
