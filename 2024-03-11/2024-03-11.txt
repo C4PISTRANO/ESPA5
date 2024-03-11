@@ -45,6 +45,11 @@ b -> Coeficiente Linear (onde cruza com o eixo y do gráfico)
 Como determinar onde fica a reta?
 Método dos Mínimos Quadrados (LSM)
 
+---------------------------------------------------------------------------------------------
+Criando modelo de regressão linear no R Studio
+---------------------------------------------------------------------------------------------
+
+
 *Correlação de Pearson -> "modelos bonitos"
 *Existe a análise multivariada tbm -> não aboradamos no IF
 
