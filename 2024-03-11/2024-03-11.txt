@@ -47,6 +47,10 @@ Método dos Mínimos Quadrados (LSM)
 
 ---------------------------------------------------------------------------------------------
 Criando modelo de regressão linear no R Studio
+
+mudar a tabela por linhA ->margin 1
+mudar a tabela por COLUNA ->margin 2
+
 ---------------------------------------------------------------------------------------------
 
 
