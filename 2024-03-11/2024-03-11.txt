@@ -1,7 +1,7 @@
 Análise Bivariada
 *novas forma de avaliar dados
 
-- Categóricas:
+- Variáveis Categóricas:
 Usamos Tabela de Contigência: distribuição das frequências absolutas entre as variáveis.
 Exemplo: Quantos tem EM na Capital? = 5/36
 Divide-se todos os valores pelo total (no caso 36) para obtermos as % de cada dentre o total
@@ -9,13 +9,20 @@ dentre cada categoria tem que dividir a quantidade pelo total de cada categoria 
 dentre cada categoria tem que dividir a quantidade pelo total de cada categoria (linha) 
 
 Como apresentar? (exemplo)
-Gráfico de barras empilhadas
+Gráfico de Barras Empilhadas (Stacked Bar)
+*mais interessante se for interativo
 
-- Numéricas:
+---------------------------------------------------------------------------------------------
+- Variáveis Numéricas:
+Como verificar se tem relação entre as variáveis?
+Fazer as escalas primeiro (sempre manter as proporções)
+Gráfico de Dispersão (Points)
 
 
+*Covariância = relação xy
+*Variância (S²) = relação xx 
 
-
+Obter correlação entre as variáveis (necessário ter a covariância primeiro):
 
 
 *Existe a análise multivariada tbm -> não aboradamos no IF
