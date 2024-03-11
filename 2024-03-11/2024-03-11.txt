@@ -31,7 +31,7 @@ Correlação: varia entre -1 e 1
 Abaixo de 0.6 não vale a pena calcular (Não haverá relação)
 
 
-*Correlação é apenas o primeiro indício que pode existir uma relação de causa e efeito
+*Correlação é apenas o primeiro passo para verficar se existe uma relação de causa e efeito
 
 
 
