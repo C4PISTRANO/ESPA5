@@ -1,0 +1,23 @@
+Análise Bivariada
+*novas forma de avaliar dados
+
+- Categóricas:
+Usamos Tabela de Contigência: distribuição das frequências absolutas entre as variáveis.
+Exemplo: Quantos tem EM na Capital? = 5/36
+Divide-se todos os valores pelo total (no caso 36) para obtermos as % de cada dentre o total
+dentre cada categoria tem que dividir a quantidade pelo total de cada categoria (coluna) 
+dentre cada categoria tem que dividir a quantidade pelo total de cada categoria (linha) 
+
+Como apresentar? (exemplo)
+Gráfico de barras empilhadas
+
+- Numéricas:
+
+
+
+
+
+
+*Existe a análise multivariada tbm -> não aboradamos no IF
+
+
