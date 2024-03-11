@@ -36,12 +36,14 @@ Abaixo de 0.6 não vale a pena calcular (Não haverá relação)
 
 No exemplo existe uma correlação de 0.877
 
-Relação Linear -> precisamos de uma reta
-Equação da reta : y = ax + b
-	a -> Coeficiente angular (inclinação da reta)
-	b -> Coeficiente Linear (onde cruza com o eixo y do gráfico)
+Relação Linear -> (precisamos de uma reta)
+Equação da reta :
+y = ax + b
+a -> Coeficiente angular (inclinação da reta)
+b -> Coeficiente Linear (onde cruza com o eixo y do gráfico)
 
-
+Como determinar onde fica a reta?
+Método dos Mínimos Quadrados (LSM)
 
 *Correlação de Pearson -> "modelos bonitos"
 *Existe a análise multivariada tbm -> não aboradamos no IF
