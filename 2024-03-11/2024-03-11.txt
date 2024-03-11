@@ -1,3 +1,5 @@
+ANÁLISE DE DADOS
+
 Análise Bivariada
 *novas forma de avaliar dados
 
@@ -18,13 +20,24 @@ Como verificar se tem relação entre as variáveis?
 Fazer as escalas primeiro (sempre manter as proporções)
 Gráfico de Dispersão (Points)
 
-
 *Covariância = relação xy
 *Variância (S²) = relação xx 
 
 Obter correlação entre as variáveis (necessário ter a covariância primeiro):
 
+Correlação: varia entre -1 e 1
+>0.8 ou -0.8  excelente
+0.6 a 0.8     boa
+Abaixo de 0.6 não vale a pena calcular (Não haverá relação)
 
+
+*Correlação é apenas o primeiro indício que pode existir uma relação de causa e efeito
+
+
+
+
+
+*Correlação de Pearson -> "modelos bonitos"
 *Existe a análise multivariada tbm -> não aboradamos no IF
 
 
