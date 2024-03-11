@@ -34,6 +34,12 @@ Abaixo de 0.6 não vale a pena calcular (Não haverá relação)
 *Correlação é apenas o primeiro passo para verficar se existe uma relação de causa e efeito
 
 
+No exemplo existe uma correlação de 0.877
+
+Relação Linear -> precisamos de uma reta
+Equação da reta : y = ax + b
+	a -> Coeficiente angular (inclinação da reta)
+	b -> Coeficiente Linear (onde cruza com o eixo y do gráfico)
 
 
 
