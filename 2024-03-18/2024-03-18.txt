@@ -1,3 +1,43 @@
-Estatística e probabilidade
+Estatística e probabilidade 
+
+***
+Prova 01/04/2024
+Conceitual (Sem Consulta) + Prática (Usar R studio Cloud)
+***
+----------------------------------------------
+Revisão aula passada:
+
+Análise Bidimensional
+Tabelas de contigência-> Dados categóricos
+
+
+Dados numéricos:
+covariância -> correlção
+
+
+Reta de regressão:
+y=a.x+b -> descobrir 'a' e 'b'
+
+----------------------------------------------
+Aplicações
+
+Exercício 1 Transdutores:
+
+Fazer histograma -> contagem
+#(quantidade) fora da especificação | Freq. Absoluta | Freq. Relativa
+		0				7
+		1				12
+		2				13
+		3				14
+		4
+		5
+		6
+		7
+		8
+		
+No histograma, a freq relaiva fica na vertical e a variável fica na horizonal.
+Dividir a escala corretamente
+
+*O R cloud faz o histograma automaticamente
 
 
