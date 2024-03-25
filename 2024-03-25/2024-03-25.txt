@@ -9,8 +9,8 @@ Botão Upload (amarelo) ao lado direito do R Studio
 Clicar com direito no nome da base > import Dataset
 
 1. Fazer as transformações (Se necessário)
- - Tratar dados missing
- - Transformar em variáveis categóricas
+ - Tratar dados missing (???)
+ - Transformar em variáveis categóricas  (Nominal / Ordinal)
 
 2. Fazer análise univariada
  - Colocar comentários (#) com sua análise
