@@ -34,6 +34,8 @@ Cerveja e fralda
 A questão é criar uma vizualiação significativa
 
 --------------------------------------------------
+Resolução:
+
 sexo raca cor -> Categorica nominal
 idade peso    -> numerica incremental
 
@@ -44,4 +46,8 @@ Summary -> Factor antes nas var categoricas
 
 Histograma do peso (gráfico): Tendência Central
 
- 
+Perguntas:
+Proporção de bebês que nascem abaixo da média (baixo peso)?
+Proporção de bebês que nascem acima da média (alto peso)?
+
+BoxPlot no peso -> Verficar os outliers
