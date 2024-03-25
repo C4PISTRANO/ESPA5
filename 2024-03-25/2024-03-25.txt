@@ -29,3 +29,6 @@ Clicar com direito no nome da base > import Dataset
 
 *Caso clássico do BigData
 Cerveja e fralda
+
+*Oferecer interação para o usuário final
+A questão é criar uma vizualiação significativa
