@@ -32,7 +32,7 @@ Problemas:
 2. Dados missing (faltantes)
 
 MEDIANA: 
-(posicional, não tem a sensibilidade da média)
+(posicional, não tem a sensibilidade da média,tem que organizar os dados)
 Dados ordenados
 
 2 8 15 17 22 -> 15 é a mediana
