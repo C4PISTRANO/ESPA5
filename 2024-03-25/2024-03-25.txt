@@ -32,3 +32,16 @@ Cerveja e fralda
 
 *Oferecer interação para o usuário final
 A questão é criar uma vizualiação significativa
+
+--------------------------------------------------
+sexo raca cor -> Categorica nominal
+idade peso    -> numerica incremental
+
+Análises:
+Média
+Mediana
+Summary -> Factor antes nas var categoricas
+
+Histograma do peso (gráfico): Tendência Central
+
+ 
