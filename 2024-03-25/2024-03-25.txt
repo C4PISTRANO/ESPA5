@@ -36,8 +36,8 @@ A questão é criar uma vizualiação significativa
 --------------------------------------------------
 Resolução:
 
-sexo raca cor -> Categorica nominal
-idade peso    -> numerica incremental
+sexo e racaCor -> Categorica nominal
+idade e peso    -> numerica incremental
 
 Análises:
 Média
@@ -45,9 +45,15 @@ Mediana
 Summary -> Factor antes nas var categoricas
 
 Histograma do peso (gráfico): Tendência Central
+Histograma da idadeMae (gráfico):
+
+BoxPlot no peso -> Verficar os outliers
+BoxPlot na idadeMae -> Verficar os outliers
 
 Perguntas:
 Proporção de bebês que nascem abaixo da média (baixo peso)?
 Proporção de bebês que nascem acima da média (alto peso)?
+Gravidez na adolescencia?
+Probabilidade de ser menor de 16 anos? *Legal ser interativo, poder escolher a idade,sistema inteligente*
+Proporção de ser masculino ou feminino?
 
-BoxPlot no peso -> Verficar os outliers
