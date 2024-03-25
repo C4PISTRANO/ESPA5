@@ -1,0 +1,31 @@
+Prova 01/04/2024 -> Estatística Descritiva
+
+
+Exercícios - R Studio
+
+ - Carregar a base SINASC 2020:
+
+Botão Upload (amarelo) ao lado direito do R Studio
+Clicar com direito no nome da base > import Dataset
+
+1. Fazer as transformações (Se necessário)
+ - Tratar dados missing
+ - Transformar em variáveis categóricas
+
+2. Fazer análise univariada
+ - Colocar comentários (#) com sua análise
+ - Fazer perguntas. Ex.: Qual proporção de...
+ - Cálculos/Visualizção
+ 
+3. Fazer análise Bivariada
+ - Análise 
+ - Cálculos
+ - Visualização
+
+
+
+
+
+
+*Caso clássico do BigData
+Cerveja e fralda
