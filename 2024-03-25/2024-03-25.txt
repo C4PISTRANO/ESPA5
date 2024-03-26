@@ -57,3 +57,8 @@ Gravidez na adolescencia?
 Probabilidade de ser menor de 16 anos? *Legal ser interativo, poder escolher a idade,sistema inteligente*
 Proporção de ser masculino ou feminino? * olhar a contagem nos exemplos*
 Será que tem diferenca do peso pela racaCor?
+Será que tem diferenca do peso pelo sexo?
+Será que tem diferenca do idadeMae pela racaCor?
+Será que tem diferenca do idadeMae pelo sexo?
+Será que tem diferenca do sexo pela racaCor?
+Será que tem diferenca do idadeMae pela peso? *cor, no código R*
