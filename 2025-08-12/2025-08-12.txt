@@ -22,11 +22,17 @@ Vamos aprender a lidar com as incertezas.
 
 Fases:
 * Coletar -> Técnicas, ferramentas, sensores, agentes de coleta de dados e gerar o comportamento do usuário.
-* Anáise -> Gerar modelos, tirar informações dos dados coletados.
+* Anáise  -> Gerar modelos, tirar informações dos dados coletados.
 
     Tipos de Análises:
-      BD1 e BD2 -> Análise Explícita de Dados (Fazer consultas, criar joins, extratificação, categorias, consolidações, cálculos...)
-      Estatistica e Probabilidade -> Análise Exploratória de Dados - EDA (Melhorar o uso dos dados)
-      ICD -> Análise Implícita -> Criação de modelos, árvore de decisões, predição, agrupamento, Regras de associação (text mining)...
+      BD1 e BD2 -> Análise Explícita de Dados (Fazer consultas, criar joins, extratificação, categorias, consolidações, cálculos...)   - Nível mais básico
+      Estatistica e Probabilidade -> Análise Exploratória de Dados - EDA (Melhorar o uso dos dados)                                    - Nível médio
+      ICD -> Análise Implícita -> Criação de modelos, árvore de decisões, predição, agrupamento, Regras de associação (text mining)... - Nível avançado -> modelagem, uso prático...
+
+
+
+
+
 
 ****** Pesquisar Concorrência de termos ******
+
