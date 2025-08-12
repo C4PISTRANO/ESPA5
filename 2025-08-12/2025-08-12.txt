@@ -35,7 +35,7 @@ Decisões, tempo de vida dos dados...
 ****** Pesquisar Concorrência de termos ******
 
 ******Big Data -> Características nos Anos 2000 eram 3 Vs, atualmente são 8 Vs -> Principal visualização
-https://www.linkedin.com/pulse/big-data-management-revolutio-parichehr-esmailian
+https://shreyanshmathur1998.medium.com/big-data-with-8vs-and-today-s-challenges-9938f00363c5
 
 Conteúdos Estatistica e Probabilidade:
 
