@@ -43,12 +43,18 @@ Conteúdos da Dsiciplina:
     * Análise Multivariada
     * Prova Conceitual/ Prática (P1)
 
-2) Probabilidade:
+2) Probabilidade:  Prova Prática (P2)
     * Teorema de Bayes
     * Distribuições
 
-3) Inferência: *** Base das pesquisas políticas***
-    
+3) Inferência: *** Base das pesquisas políticas***    Prova Prática (P2)
+    * Testes de Hipósites
+
+4) Trabalho Prático: (T)
+    *Análisar dados reais e entregar
+
+
+Média final: M=P1+P2+T/3
 
 
 __________________________________________________________________________________________________________________________________________________
