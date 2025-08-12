@@ -36,7 +36,7 @@ Conteúdos Estatistica e Probabilidade:
 
 Estatística descritiva - 4/5 aulas:
     * Análise univariada
-    * Cálculos, visualização de dados (gráficos) *não usar gráfico de pizza*
+    * Cálculos, visualização de dados (gráficos) (Python ou R) *não usar gráfico de pizza*
     * 
 
 
