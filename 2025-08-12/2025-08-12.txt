@@ -26,7 +26,7 @@ Fases:
 
     Tipos de Análises:
       BD1 e BD2 -> Análise Explícita de Dados (Fazer consultas, criar joins, extratificação, categorias, consolidações, cálculos...)   - Nível mais básico
-      Estatistica e Probabilidade -> Análise Exploratória de Dados - EDA (Melhorar o uso dos dados)                                    - Nível médio
+      Estatistica e Probabilidade -> Análise Exploratória de Dados - EDA (Melhorar o uso dos dados) - Média, Probabilidade...          - Nível médio
       ICD -> Análise Implícita -> Criação de modelos, árvore de decisões, predição, agrupamento, Regras de associação (text mining)... - Nível avançado -> modelagem, uso prático...
 
 
@@ -34,5 +34,6 @@ Fases:
 
 Data mining.
 
+Criticidade
 
 ****** Pesquisar Concorrência de termos ******
