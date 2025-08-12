@@ -46,4 +46,6 @@ Estatística descritiva - 4/5 aulas:
 ****** Data Lake / Data WareHouse******
 ****** Big Data -> Características nos Anos 2000 eram 3 Vs, atualmente são 8 Vs (o principal é Visualização)
 https://shreyanshmathur1998.medium.com/big-data-with-8vs-and-today-s-challenges-9938f00363c5
-    
+
+Gráficos com JavaScript:
+https://d3js.org/
