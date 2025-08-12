@@ -6,7 +6,7 @@ Trilha Engenharia de Software
 Trilha de Gestão
 Matemática
 
-Essa disciplina só existe por causa da disciplina de Introdução a Ciência de Dados.
+Essa disciplina só existe por causa da disciplina de Introdução à Ciência de Dados.
 
 Na Estatística -> Precisamos entender e resolver problemas.
 
