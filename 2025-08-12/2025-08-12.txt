@@ -32,15 +32,18 @@ Fases:
 Data mining. Criticidade
 Decisões, tempo de vida dos dados...
 
-****** Pesquisar Concorrência de termos ******
-
-****** Big Data -> Características nos Anos 2000 eram 3 Vs, atualmente são 8 Vs -> Principal visualização
-https://shreyanshmathur1998.medium.com/big-data-with-8vs-and-today-s-challenges-9938f00363c5
-
 Conteúdos Estatistica e Probabilidade:
 
 Estatística descritiva - 4/5 aulas:
     * Análise univariada
     * Cálculos, visualização de dados (gráficos) *não usar gráfico de pizza*
     * 
+
+
+
+
+****** Pesquisar Concorrência de termos ******
+
+****** Big Data -> Características nos Anos 2000 eram 3 Vs, atualmente são 8 Vs -> Principal visualização
+https://shreyanshmathur1998.medium.com/big-data-with-8vs-and-today-s-challenges-9938f00363c5
     
