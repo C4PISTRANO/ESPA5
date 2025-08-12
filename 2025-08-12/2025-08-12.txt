@@ -59,6 +59,10 @@ Média final: M=P1+P2+T/3
 
 __________________________________________________________________________________________________________________________________________________
 
+LIVRO -> Pandas python: data wrangling para ciência de dados (Biblioteca Pearson)
+https://plataforma.bvirtual.com.br/Acervo/Publicacao/212973
+
+
 ****** Pesquisar Concorrência de termos ******
 ****** Data Lake / Data WareHouse******
 ****** Big Data -> Características nos Anos 2000 eram 3 Vs, atualmente são 8 Vs (o principal é Visualização)
