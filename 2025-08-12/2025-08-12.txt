@@ -5,3 +5,26 @@ Trilha Bancos de Dados: BD1 - BD2
 Trilha Engenharia de Software
 Trilha de Gestão
 Matemática
+
+Essa disciplina só existe por causa da disciplina de Introdução a Ciência de Dados.
+
+Na Estatística -> Precisamos entender e resolver problemas.
+
+Ciências de Dados:
+Modelo de dados -> predição
+
+Tomada de decisões
+Análises
+
+A vida real de tratamento de dados é muito complicada.
+
+Vamos aprender a lidar com as incertezas.
+
+Fases:
+* Coletar -> Técnicas, ferramentas, sensores, agentes de coleta de dados e gerar o comportamento do usuário.
+* Anáise -> Gerar modelos, tirar informações dos dados coletados.
+
+    Tipos de Análises:
+      BD1 e BD2 -> Análise Explícita de Dados (Fazer consultas, criar joins, extratificação, categorias, consolidações, cálculos...)
+      Estatistica e Probabilidade -> Análise Exploratória de Dados - EDA (Melhorar o uso dos dados)
+      ICD -> Análise Implícita -> Criação de modelos, árvore de decisões, predição, agrupamento, Regras de associação (text mining)...
