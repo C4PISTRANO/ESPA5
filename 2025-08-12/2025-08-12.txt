@@ -34,9 +34,8 @@ Decisões, tempo de vida dos dados...
 
 ****** Pesquisar Concorrência de termos ******
 
-******Big Data -> Anos 2000 -> VVV, atualmente VVVVVVV
-https://impact.com/marketing-intelligence/7-vs-big-data/
-
+******Big Data -> Características nos Anos 2000 eram 3 Vs, atualmente são 8 Vs -> Principal visualização
+https://www.linkedin.com/pulse/big-data-management-revolutio-parichehr-esmailian
 
 Conteúdos Estatistica e Probabilidade:
 
