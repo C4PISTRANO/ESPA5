@@ -32,7 +32,7 @@ Fases:
 
 
 
+Data mining.
 
 
 ****** Pesquisar Concorrência de termos ******
-
