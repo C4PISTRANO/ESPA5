@@ -28,3 +28,5 @@ Fases:
       BD1 e BD2 -> Análise Explícita de Dados (Fazer consultas, criar joins, extratificação, categorias, consolidações, cálculos...)
       Estatistica e Probabilidade -> Análise Exploratória de Dados - EDA (Melhorar o uso dos dados)
       ICD -> Análise Implícita -> Criação de modelos, árvore de decisões, predição, agrupamento, Regras de associação (text mining)...
+
+****** Pesquisar Concorrência de termos ******
