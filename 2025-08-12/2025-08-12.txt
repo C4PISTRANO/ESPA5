@@ -32,15 +32,26 @@ Fases:
 Data mining. Criticidade
 Decisões, tempo de vida dos dados...
 
-Conteúdos Estatistica e Probabilidade:
+__________________________________________________________________________________________________________________________________________________
 
-Estatística descritiva - 4/5 aulas:
-    * Análise univariada
-    * Cálculos, visualização de dados (gráficos) (Python ou R) *não usar gráfico de pizza*
-    * 
+Conteúdos da Dsiciplina:
+
+1) Estatística descritiva - 4/5 aulas:
+    * Análise Univariada
+      Cálculos, visualização de dados (gráficos) (Python ou R) *não usar gráfico de pizza*
+    * Análise Bivariada
+    * Análise Multivariada
+    * Prova Conceitual/ Prática (P1)
+
+2) Probabilidade:
+    * Teorema de Bayes
+    * Distribuições
+
+3) Inferência: *** Base das pesquisas políticas***
+    
 
 
-
+__________________________________________________________________________________________________________________________________________________
 
 ****** Pesquisar Concorrência de termos ******
 ****** Data Lake / Data WareHouse******
