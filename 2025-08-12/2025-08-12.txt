@@ -29,11 +29,7 @@ Fases:
       Estatistica e Probabilidade -> Análise Exploratória de Dados - EDA (Melhorar o uso dos dados) - Média, Probabilidade...          - Nível médio
       ICD -> Análise Implícita -> Criação de modelos, árvore de decisões, predição, agrupamento, Regras de associação (text mining)... - Nível avançado -> modelagem, uso prático...
 
-
-
-
-Data mining.
-
-Criticidade
+Data mining. Criticidade
+Decisões, tempo de vida dos dados...
 
 ****** Pesquisar Concorrência de termos ******
