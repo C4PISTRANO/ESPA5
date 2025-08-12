@@ -33,3 +33,15 @@ Data mining. Criticidade
 Decisões, tempo de vida dos dados...
 
 ****** Pesquisar Concorrência de termos ******
+
+******Big Data -> Anos 2000 -> VVV, atualmente VVVVVVV
+https://impact.com/marketing-intelligence/7-vs-big-data/
+
+
+Conteúdos Estatistica e Probabilidade:
+
+Estatística descritiva - 4/5 aulas:
+    * Análise univariada
+    * Cálculos, visualização de dados (gráficos) *não usar gráfico de pizza*
+    * 
+    
