@@ -14,8 +14,14 @@ Frequência -> Relativa (proporção)
 Categóricas podemos calcular:
 Frequência -> Absoluta (contagem)
 Frequência -> Relativa (proporção)
+Histograma (Visualização) -> Gráfico de Frequência
+
+
 Gráfico -> variável na horizontal
         -> Frequencia na Vertical
+
+
+*Gráfico Analisar
 
 
 
