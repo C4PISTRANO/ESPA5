@@ -91,7 +91,9 @@ Mediana = valor no ponto central  (depende da posição)
 *****Proporção
 
 
-
+Exercícios Notebook:
+Google Colab
+https://colab.research.google.com
 
 
 
