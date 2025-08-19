@@ -65,6 +65,17 @@ ________________________________________________________________________________
 
 MEDIDAS DE CENTRALIDADE
 
+****São importantes pq a média simples pode fazer sentido quando a tendência é central.
+
+*** Média simples = Representatividade de um conjunto de dados.
+
+Mediana = 
+
+
+Média Aritmética = Média Ponderada
+
+
+
 
 
 
