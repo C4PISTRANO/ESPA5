@@ -69,14 +69,19 @@ MEDIDAS DE CENTRALIDADE
 
 *** Média simples = Representatividade de um conjunto de dados.
 
-Mediana = 
 
 
 Tipos de Médias:
-Média Aritmética = Média Ponderada
+Média Aritmética = Média Ponderada (muito sensível, qualquer valor extremo desloca a média)(usar média ajustada)
 Média Geométrica
 Média Harmônica
 Média Móvel = Muita variações de valores de dados
+Média Ajsutada = Retirar os valores dos extremos (outliers)
+___________________________________________________________________________________________________________________________________
+
+Mediana = valor no ponto central  (depende da posição)
+
+
 
 
 
