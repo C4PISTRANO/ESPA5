@@ -1,4 +1,4 @@
-Análise univariada
+emAnálise univariada
 
 Tipos de variáveis:
 
@@ -14,14 +14,14 @@ Frequência -> Relativa (proporção)
 Categóricas podemos calcular:
 Frequência -> Absoluta (contagem)
 Frequência -> Relativa (proporção)
-Histograma (Visualização) -> Gráfico de Frequência
+Histograma (Visualização) -> Gráfico de Frequência Absoluta
 
 
 Gráfico -> variável na horizontal
         -> Frequencia na Vertical
 
 
-*Gráfico Analisar
+*****Gráfico: Analisar se tem intervalo mais centralizado
 
 
 
