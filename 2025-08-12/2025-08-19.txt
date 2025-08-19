@@ -6,11 +6,16 @@ Numéricas -> discreta e Contiunua
 Categóricas -> nominal e ordinal
 
 
+Numéricas podemos calcular:
+Média, Mediana
+Frequência -> Absoluta (contagem)
+Frequência -> Relativa (proporção)
 
-
-
-
-
+Categóricas podemos calcular:
+Frequência -> Absoluta (contagem)
+Frequência -> Relativa (proporção)
+Gráfico -> variável na horizontal
+        -> Frequencia na Vertical
 
 
 
