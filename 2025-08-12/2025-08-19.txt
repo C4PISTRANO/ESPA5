@@ -72,9 +72,11 @@ MEDIDAS DE CENTRALIDADE
 Mediana = 
 
 
+Tipos de Médias:
 Média Aritmética = Média Ponderada
-
-
+Média Geométrica
+Média Harmônica
+Média Móvel = Muita variações de valores de dados
 
 
 
