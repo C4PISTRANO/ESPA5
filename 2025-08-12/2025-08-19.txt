@@ -79,7 +79,18 @@ Média Móvel = Muita variações de valores de dados
 Média Ajsutada = Retirar os valores dos extremos (outliers)
 ___________________________________________________________________________________________________________________________________
 
+MEDIANA
+
 Mediana = valor no ponto central  (depende da posição)
+
+***Os dados tem que estar sempre ordenados (Usar algoritmo sort)
+         Se for impar pega o valor do meio
+         Se for par pega o valor
+
+
+*****Proporção
+
+
 
 
 
