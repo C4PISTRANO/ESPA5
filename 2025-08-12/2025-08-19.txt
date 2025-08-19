@@ -25,6 +25,9 @@ Gráfico -> variável na horizontal
 
 
 Tabela 1 - Aula2   ****não é uma tabela consolidada***
+
+Histograma
+
 Para calcular o histograma:
 
 #Acertos(quantidadeAcertos) | Contagem do número de jogos (Frequencia Absoluta) | Frequência Relativa (numero de jogos dividido pelo número total de jogos) (%)
