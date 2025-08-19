@@ -60,6 +60,10 @@ Frequencia Abs = Valor
 
 ****Fazer a raiz quadrada da quantidade total de dados para definir o número de classes
 
+__________________________________________________________________________________________________________________________________
+
+
+MEDIDAS DE CENTRALIDADE
 
 
 
