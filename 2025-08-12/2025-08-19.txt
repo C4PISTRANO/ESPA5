@@ -36,6 +36,13 @@ Para calcular o histograma:
 ***Probabilidade simples -> o que tem a maior (%)
 
 
+Histograma Variável Discreta:
+ variável na horizontal (deslocar o zero para frente, pra fazer o retangulo certo)
+ Frequencia na Vertical
+
+***Observar a escala do Gráfico - divisão dos espaços tem que ser igual (dividir igual uma régua)
+
+****Quando um gráfico tem valores muito distantes, pode-se fazer a conversão dos valores da escala para valores logaritimos
 
 
 
