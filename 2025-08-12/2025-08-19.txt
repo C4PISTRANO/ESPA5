@@ -47,6 +47,10 @@ Histograma Variável Discreta:
 
 ****Quando um gráfico tem valores muito distantes, pode-se fazer a conversão dos valores da escala para valores logaritimos
 
+******Prova real da frequencia relativa -> A soma de todas será igual a 1
+
+
+
 
 
 
