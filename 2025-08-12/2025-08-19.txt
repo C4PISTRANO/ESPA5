@@ -1,4 +1,4 @@
-emAnálise univariada
+Análise univariada
 
 Tipos de variáveis:
 
@@ -22,6 +22,18 @@ Gráfico -> variável na horizontal
 
 
 *****Gráfico: Analisar se tem intervalo mais centralizado
+
+
+Tabela 1 - Aula2   ****não é uma tabela consolidada***
+Para calcular o histograma:
+
+#Acertos(quantidadeAcertos) | Contagem do número de jogos (Frequencia Absoluta) | Frequência Relativa (numero de jogos dividido pelo número total de jogos) (%)
+            0                                       0                                                              
+            1                                       0
+            2                                       0
+
+
+***Probabilidade simples -> o que tem a maior (%)
 
 
 
