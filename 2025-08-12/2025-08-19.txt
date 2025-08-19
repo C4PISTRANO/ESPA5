@@ -54,7 +54,11 @@ Histograma Variável Discreta:
 
 
 
+Tabela 2  -> Histograma para Dados Contínuos (Obrigatório dividir em classes)
+Classes = Consumo
+Frequencia Abs = Valor
 
+****Fazer a raiz quadrada da quantidade total de dados para definir o número de classes
 
 
 
