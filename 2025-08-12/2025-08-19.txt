@@ -107,6 +107,13 @@ sinasc[(sinasc['ESTCIVMAE'] == 3) & (sinasc['LOCNASC'] == 1)]
 
 
 
+_____________________________________________________________________
+Fazer Exercícios Aula 2
+
+
+
+
+
 
 
 
