@@ -96,6 +96,13 @@ Google Colab
 https://colab.research.google.com
 
 
+Análise explícita de dados:
+Filtro para mães viúvas do Acre
+
+Código Python
+#@title **Mães viúvas no Acre**
+sinasc[(sinasc['ESTCIVMAE'] == 3) & (sinasc['LOCNASC'] == 1)]
+
 
 
 
