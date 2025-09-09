@@ -10,3 +10,6 @@ Numéricas: INVESTIGAÇÃO
 *Variância amostral -> na média verificar quanto varia (média dos desvios quadraticos entre cada um dos pontos)
 Para que serve??
 Medir o desvio dos valores da média de cada eixo
+
+
+Coeficiente de relação:
