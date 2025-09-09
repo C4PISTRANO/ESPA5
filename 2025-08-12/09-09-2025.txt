@@ -14,6 +14,10 @@ Medir o desvio dos valores da média de cada eixo
 
 Coeficiente de relação:
 
+Covariância -> Coeficiente de correlação ~= 1 (OK)
+            -> Reta de Regreção; y=a.x+b
+
+
 _____________________________________________________________________________________________________________________
 16/09 Exercícios
 23/09 Sedicitec
