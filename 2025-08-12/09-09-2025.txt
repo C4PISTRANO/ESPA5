@@ -18,6 +18,12 @@ Covariância -> Coeficiente de correlação ~= 1 (OK)
             -> Reta de Regreção; y=a.x+b
 
 
+Como determinar um reta de regressão: (y = a.x + b)
+Analisando um Gráfico de pontos, ver a distância calcular as distâncias para ver qual é a menor entre cada ponto (Método dos Mínimos Quadrados - LSM)
+
+
+
+
 _____________________________________________________________________________________________________________________
 16/09 Exercícios
 23/09 Sedicitec
