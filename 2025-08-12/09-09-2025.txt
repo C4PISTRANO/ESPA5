@@ -7,7 +7,7 @@ Categorias: TABELA DE CONTIGÊNCIA (Proporção)
 Numéricas: INVESTIGAÇÃO 
                -> Gráfico de pontos
 
-*Variância amostral -> na média verificar quanto varia (média dos desvios quadraticos entre cada um dos pontos)
+(S)Variância amostral -> na média verificar quanto varia (média dos desvios quadraticos entre cada um dos pontos)
 Para que serve??
 Medir o desvio dos valores da média de cada eixo
 
