@@ -25,7 +25,7 @@ Analisando um Gráfico de pontos, ver a distância calcular as distâncias para 
 **Problema:
 Relatório com vários tipos de "erros" (incertezas)
 
-
+Colab = https://colab.research.google.com/drive/
 _____________________________________________________________________________________________________________________
 16/09 Exercícios
 23/09 Sedicitec
