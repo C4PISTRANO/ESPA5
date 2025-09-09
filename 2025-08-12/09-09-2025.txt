@@ -1,0 +1,4 @@
+Análise Bivariada:
+Qual relação entre as variáveis?
+Categorias: TABELA DE CONTIGÊNCIA (Proporção)
+                 -> Coeficiente de contigência
