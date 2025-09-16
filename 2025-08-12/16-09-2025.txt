@@ -58,13 +58,44 @@ B)Desvio = cada valor menos o valor médio (x-xmédio)
 (x-xmédio)² 
 0,67     0,10      0,96      0,14      0,04
 
-var = Variância                             = 0,47
+var = Variância (serve para calcular o desvio padrão)     = 0,47
 fórmula
 
-dp = desvio padrão (média dos desvios)      = 0,7
+dp = desvio padrão (média dos desvios)                    = 0,7
 fórmula
 
 
 C) Não muda nada!!
+
+
+
+2) 
+B)
+2,34
+2,43
+2,62
+2,74
+2,74   Q1  (quartil)
+2,75
+2,78
+3,01
+3,46   mediana
+3,56
+3,68
+3,85
+3,88   Q3  (quartil)
+3,93
+4,21
+4,33
+4,52
+
+C)
+FS = Q3 - Q1 = 1,14
+
+D)
+Não pq os Qs são posicionais.
+A média mudaria.
+
+E)
 
 
