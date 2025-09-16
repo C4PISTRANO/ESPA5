@@ -157,4 +157,4 @@ Colocar rachura no eixo y ou podemos começar com 350
 Como não tenho outliers, os bigodes vão até o menor valor (350) e maior valor (390), de amostra
 
 Para mais detalhes podemos fazer o Dotplot (análise de pontos)
-
+Pode mostrar os agrupamentos
