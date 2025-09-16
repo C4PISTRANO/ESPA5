@@ -61,5 +61,10 @@ B)Desvio = cada valor menos o valor médio (x-xmédio)
 var = Variancia
 fórmula
 
-dp = desvio padrão
+dp = desvio padrão (média dos desvios)
 fórmula
+
+
+C) Não muda nada!!
+
+
