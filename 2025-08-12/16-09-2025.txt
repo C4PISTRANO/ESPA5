@@ -17,3 +17,6 @@ Desenhar gráfico -> sempre respeitando os espaços (proporção)
 
 Eixo X = #furos
 Eixo Y = Frequencia
+
+Gráfico de barras verticais
+marcar(riscar) no zero tbm.
