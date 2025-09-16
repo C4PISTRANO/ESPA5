@@ -141,3 +141,13 @@ Tipo 3: 350 361 362 364 364 365 366 371 377 377 377 379 380 380 392
 xmed= 371
 Q1 = 364 
 Q3 = 378
+
+
+
+Pra saber se é outliers: 
+fs = Q3-Q1 = 14
+Q1-1,5*fs = 364-21 = 343
+Q3+1,5*fs = 378+21 = 399
+
+Resultado não temos outliers.
+
