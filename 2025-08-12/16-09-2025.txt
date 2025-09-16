@@ -13,7 +13,7 @@ B)
 400 - <500
 500 - <600
 
-Desenhar gráfico -> sempre respeitando os espaços (proporção) 
+Desenhar gráfico -> sempre respeitando a escala, os espaços (proporção) 
 
 Eixo X = #furos
 Eixo Y = Frequencia
