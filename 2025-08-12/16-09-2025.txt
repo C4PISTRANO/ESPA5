@@ -27,3 +27,7 @@ C) p=(<100) = valor anterior direto a 100
 
 p=(>=2000 = soma todas depois de 200
 É o 7/50 = 0,14
+
+
+mèdia -> soma tudo e divide pela quantidade
+Mediana -> organiza e pega o número que estiver no meio
