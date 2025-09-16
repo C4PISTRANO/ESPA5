@@ -97,5 +97,7 @@ Não pq os Qs são posicionais.
 A média mudaria.
 
 E)
+Ela pode aumentar no máximo até 2,74 para que FS não mude, ou seja, pode ser alterado em até 0,40.
+
 
 
