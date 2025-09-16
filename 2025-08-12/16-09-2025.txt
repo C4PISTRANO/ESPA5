@@ -42,3 +42,24 @@ Média aparada = excluir os 2 valores extremos    = 44,5
 
 Análise final =  Os dados não são distribuídos com tendência central.
 
+
+
+______________________________________________________________________________________________________
+
+
+Exercícios Aula 3
+1)
+A)Média = 115,5
+
+B)Desvio = cada valor menos o valor médio (x-xmédio)
+0,82       0,32      -0,98      -0,38       0,22
+
+
+(x-xmédio)² 
+0,67     0,10      0,96      0,14      0,04
+
+var = Variancia
+fórmula
+
+dp = desvio padrão
+fórmula
