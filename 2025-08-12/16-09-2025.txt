@@ -99,5 +99,29 @@ A média mudaria.
 E)
 Ela pode aumentar no máximo até 2,74 para que FS não mude, ou seja, pode ser alterado em até 0,40.
 
+F)
+Aumnetou uma observação (4,60)
 
+2,34
+2,43
+2,62
+2,74 
+2,74     Q1  (quarto)
+2,75
+2,78
+3,01
+3,46   
+------ mediana  = 3,46 + 3,56 / 2 = 3,51
+3,56 
+3,68
+3,85
+3,88   
+3,93    Q3  (quarto)
+4,21
+4,33
+4,52
+4,60
+
+FS = Q3 - Q1
+FS = 3,93 - 2,74 = 1,17
 
