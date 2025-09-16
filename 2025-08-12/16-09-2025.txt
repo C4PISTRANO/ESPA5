@@ -29,5 +29,16 @@ p=(>=2000 = soma todas depois de 200
 É o 7/50 = 0,14
 
 
-mèdia -> soma tudo e divide pela quantidade
-Mediana -> organiza e pega o número que estiver no meio
+
+Exercíco 3
+A)
+mèdia -> soma tudo e divide pela quantidade                 = 48,82
+
+B)
+Mediana -> (é posição)organiza e pega o número que estiver no meio     = 36,6
+            quando é par usar
+C)
+Média aparada = excluir os 2 valores extremos    = 44,5
+
+Análise final =  Os dados não são distribuídos com tendência central.
+
