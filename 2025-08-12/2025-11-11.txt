@@ -26,3 +26,20 @@ Padrões de Intervalo de confiança: **Pesquisador quem escolhe**
 
 Exemplo Colesterol:
 Aplicar o método de inferência
+
+_________________________________________________________________________________________________________
+
+Experimento Método Blind:
+
+***Tbm existe o Método Double Blind***
+
+
+
+Testes de Hipóteses:
+2 Hipóteses:
+
+Hip. Nula        (H0) -> Não comprova diferença estatiticamente significante entre os grupos
+Hip. Alternativa (H1) -> Existem diferenças entre os grupos 
+
+
+
