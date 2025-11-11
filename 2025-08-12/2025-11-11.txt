@@ -1,0 +1,5 @@
+Inferência: 
+Analisar uma amostra e dizer que vale para toda uma população.
+
+Amostra -> População
+
