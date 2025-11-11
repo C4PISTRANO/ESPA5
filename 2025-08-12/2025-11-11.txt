@@ -25,3 +25,4 @@ Padrões de Intervalo de confiança: **Pesquisador quem escolhe**
 
 
 Exemplo Colesterol:
+Aplicar o método de inferência
