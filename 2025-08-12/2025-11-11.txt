@@ -11,5 +11,12 @@ Estimador -> Valor Médio -> Calcular: Média, Mediana, Média Aparada (chegar a
 
 Erro amostral (incertezas)
 
-Intervalo de confiança ou nível de confiança de 95% (IC)
+Intervalo de confiança ou nível de confiança de 95% (IC):
+**Se pegar outras 100 amostras, em 95%, a estimativa de média vai estar nesse intervalo.
+
+Exemplo de pesquisa eleitoral:
+2000 pessoas entrevistadas (amostra)
+9,3 Milhões                (população)
+
+
 
