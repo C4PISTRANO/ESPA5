@@ -19,4 +19,6 @@ Exemplo de pesquisa eleitoral:
 9,3 Milhões                (população)
 
 
-
+Padrões de Intervalo de confiança: **Pesquisador quem escolhe**
+95% (utilizado geralmente)
+99% (pode ser utilizado, se quiser ser mais rígido)
