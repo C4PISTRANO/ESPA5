@@ -3,3 +3,7 @@ Analisar uma amostra e dizer que vale para toda uma população.
 
 Amostra -> População
 
+Estimativa
+
+Estimador -> Valor Médio
+          -> Variação
