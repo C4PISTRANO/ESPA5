@@ -49,14 +49,14 @@ Se o IC é = 95% ->> alfa é = 5% ou 0,05
 
 
 Verificar P-value:
-P-Value ->> se for <= (alfa), aceitamos a hip. altenativa
-        ->> se for >  (alfa), aceitamos a hip. nula
+P-Value ->> se for <= (alfa), aceitamos a hip. altenativa    -->> É uma normal
+        ->> se for >  (alfa), aceitamos a hip. nula          -->> Não é uma normal
 
 
 Para que serve o teste de hipóteses???
 1) Teste de média -> comparar 2 médias  (***Somente para aquilo que é representativo)
           Análise Histograma, qqplot
-          Teste de normalidade: Shapiro-Wilk
+          Teste de normalidade: Shapiro-Wilk   
           Teste de variância: Levine
           Teste 't' (<30 itens)
 2) Teste de proporção -> ex.: Doença em relação aos Estados
