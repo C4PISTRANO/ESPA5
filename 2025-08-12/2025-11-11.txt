@@ -5,5 +5,11 @@ Amostra -> População
 
 Estimativa
 
-Estimador -> Valor Médio
+Estimador -> Valor Médio -> Calcular: Média, Mediana, Média Aparada (chegar a uma Estimativa de Média)
           -> Variação
+
+
+Erro amostral (incertezas)
+
+Intervalo de confiança ou nível de confiança de 95% (IC)
+
