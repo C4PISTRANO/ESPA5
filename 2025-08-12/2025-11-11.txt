@@ -1,5 +1,5 @@
 Inferência: 
-Analisar uma amostra e dizer que vale para toda uma população.
+Tratase analisar uma amostra e dizer que vale para toda uma população.
 
 Amostra -> População
 
@@ -43,3 +43,10 @@ Hip. Alternativa (H1) -> Existem diferenças entre os grupos
 
 
 
+Resultado das Hipótese: (Como saber qual das hipóteses iremos aceitar???)
+O pesquisador escolhe o nível de significância (alfa)
+Se o IC é = 95% ->> alfa é = 5% ou 0,05
+
+
+P-Value ->> se for <= (alfa), aceitamos a hip. altenativa
+        ->> se for > (alfa), aceitamos a hip. nula
