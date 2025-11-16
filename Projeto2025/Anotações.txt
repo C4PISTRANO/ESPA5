@@ -11,12 +11,29 @@ Gerar os gráficos (Python).
 
 Relatório final, em PDF:
 Introdução (tema e bases de dados)
+
 Descrição dos dados
-Análises realizadas
+
+Análises:
+O relatório deverá conter a descrição e explicação dos cálculos realizados e gráficos
+obtidos de acordo com o conteúdo da disciplina, inclusive testes de hipótese.
+Naturalmente, nem todos os itens devem ser abordados. 
+O grupo deverá determinar as análises a serem realizadas, ou seja, a descrição do problema e a solução a
+partir do uso dos dados e do Python. Faça “perguntas” à base de dados e mostre o
+resultado.
+
+O relatório deverá conter análises referentes aos conteúdos:
+a. Estatística descritiva
+b. Probabilidade
+c. Inferência 
+
+
 Gráficos e interpretações
 Conclusões
 
+
 Entregar link do GitHub até 04/12/2025. (PDF e os códigos Python) 
+
 
 
 
