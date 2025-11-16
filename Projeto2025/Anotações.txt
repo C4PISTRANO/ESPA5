@@ -1,0 +1,23 @@
+Tarefas Projeto:
+
+Escolher 2 bases de dados no Open DataSUS.
+
+Montar perguntas e hipóteses para testarmos.
+
+Criar códigos em Python.
+
+Gerar os gráficos (
+
+Relatório final, em PDF:
+Introdução (tema e bases de dados)
+
+Descrição dos dados
+
+Análises realizadas
+
+Gráficos e interpretações
+
+Conclusões
+
+
+
