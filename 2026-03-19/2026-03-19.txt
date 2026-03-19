@@ -14,6 +14,7 @@ Dispersão = como os dados são distribuídos
 
 
 Exercício 2:
+A) Organizar dados
 B) Xmed = 3.46 (Mediana)
 Q1 = 2.74
 Q3 = 3.88 (sempre inclui a mediana) 
@@ -50,3 +51,19 @@ Desenhar o gráfico(boxplot): (vide WhatsApp - 19/03/2026
    Bigode vai até 4.52 (Não vai até o valor do outlier)
 
 Observação: Nesse exercício não tem Outliers
+
+________________________________________________________________________________________________________________
+
+Exercício 3:
+Tipo 1
+Xmed = 371
+   Q1 = 364
+   Q3 = 378
+
+fs = Q3-Q1
+   fs = 378-364 = 14
+
+Verificar outliers (Esses valores não vão no Boxplot)
+    Q1-1.5*fs = 364-1.5*1.14 = 343
+    Q3+1.5*fs = 378+1.5*1.14 = 399
+
