@@ -133,3 +133,5 @@ C)  Divide-se o valor pelo total Geral (concistência)
 _______________________________________________________________________________________________________________
 
 2) 
+
+C) Coeficiente de correlação
