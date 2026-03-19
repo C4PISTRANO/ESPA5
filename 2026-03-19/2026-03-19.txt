@@ -1,3 +1,11 @@
 SPOESTA - ESTATÍSTICA E PROBABILIDADE
 
 Estatística Descritiva - Exercícios Gerais
+
+
+Dispersão = como os dados são distribuídos
+
+*Amplitude
+*Amplitude interquartil
+*Variância (Na média, quanto que cada valor se distancia do eixo central)
+
