@@ -2,10 +2,16 @@ SPOESTA - ESTATÍSTICA E PROBABILIDADE
 
 Estatística Descritiva - Exercícios Gerais
 
+PROVA 26/03/2026
+
 
 Dispersão = como os dados são distribuídos
 
 *Amplitude
 *Amplitude interquartil
 *Variância (Na média, quanto que cada valor se distancia do eixo central)
+*Desvio Padrão (Raiz da Variância)
 
+
+Exercício 2:
+A) 
