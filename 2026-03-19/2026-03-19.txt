@@ -113,7 +113,7 @@ Desenhar o gráfico(boxplot):
    Bigode vai até 392 (Não vai até o valor do outlier)
    Observação: Nesse exercício não tem Outliers
 
-B) DOTPLOT (Gráfico de pontos)
+B) DOTPLOT (Gráfico de pontos) - (vide WhatsApp - 19/03/2026)
 Tipo 1: Tem agrupamentos, pode identificar algumas regras
 Tipo 2: Não tem agrupamentos, pode identificar algumas regras
 Tipo 3: Tem alguns agrupamentos, pode identificar algumas regras
@@ -122,9 +122,12 @@ Tipo 3: Tem alguns agrupamentos, pode identificar algumas regras
 _______________________________________________________________________________________________________________
 _______________________________________________________________________________________________________________
 Exercicos pg11
-Frequencias 
+Frequencias Relativas
 1)
 A) Divide-se o valor pelo total da linha  (proporção)
 B) Divide-se o valor pelo total da coluna (proporção)
 C)  Divide-se o valor pelo total Geral (concistência)
 
+_______________________________________________________________________________________________________________
+
+2) 
