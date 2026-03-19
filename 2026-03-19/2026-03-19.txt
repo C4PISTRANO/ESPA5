@@ -49,7 +49,7 @@ Verificar outliers (Esses valores não vão no Boxplot)
     Q1-1.5*fs = 2.74-1.5*1.14 = 1.03
     Q3+1.5*fs = 3.88+1.5*1.14 = 5.59
 
-Desenhar o gráfico(boxplot): (vide WhatsApp - 19/03/2026
+Desenhar o gráfico(boxplot): (vide WhatsApp - 19/03/2026)
    Escolher uma escala
    Bigode vai até 2.34 (Não vai até o valor do outlier)
    Bigode vai até 4.52 (Não vai até o valor do outlier)
@@ -113,4 +113,11 @@ Desenhar o gráfico(boxplot):
    Bigode vai até 392 (Não vai até o valor do outlier)
    Observação: Nesse exercício não tem Outliers
 
+B) DOTPLOT (Gráfico de pontos)
+Tipo 1: Tem agrupamentos, pode identificar algumas regras
+Tipo 2: Não tem agrupamentos, pode identificar algumas regras
+Tipo 3: Tem alguns agrupamentos, pode identificar algumas regras
+
+
+_______________________________________________________________________________________________________________
 
