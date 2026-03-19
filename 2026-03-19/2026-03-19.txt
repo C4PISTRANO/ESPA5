@@ -15,7 +15,7 @@ Dispersão = como os dados são distribuídos
 
 _______________________________________________________________________________________________________________
 
-Arequivo - Aula 3 - Estatística descritiva.pdf
+Arquivo - Aula 3 - Estatística descritiva.pdf
 
 Exercício 2:
 A) Organizar dados
@@ -120,4 +120,11 @@ Tipo 3: Tem alguns agrupamentos, pode identificar algumas regras
 
 
 _______________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________
+Exercicos pg11
+Frequencias 
+1)
+A) Divide-se o valor pelo total da linha  (proporção)
+B) Divide-se o valor pelo total da coluna (proporção)
+C)  Divide-se o valor pelo total Geral (concistência)
 
