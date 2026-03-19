@@ -14,4 +14,13 @@ Dispersão = como os dados são distribuídos
 
 
 Exercício 2:
-A) 
+B) Xmed = 3.46 (Mediana)
+Q1 = 2.74
+Q3 = 3.88 (sempre inclui a mediana) 
+
+C) fs = Q3-Q1
+   fs = 3.88-2.74 = 1.14
+
+D) não muda, pq os valores são posicionais
+
+E) No máximo podemos alterar até 2.74, ou seja 0.40, pq assim não alteramos a posição do 2.74
