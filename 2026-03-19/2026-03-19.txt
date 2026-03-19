@@ -33,3 +33,13 @@ Q3 = 3.93 (sempre inclui a mediana)
 
 fs = Q3-Q1
    fs = 3.93-2.74 = 1.19
+
+Boxplot (17 dados):
+Necessário:
+   Xmed = 3.46
+   Q1 = 2.74
+   Q3 = 3.88
+fs = 1.14
+Verificar outliers
+    Q1-1.5*fs = 2.74-1.5*1.14 = 1.03
+    Q3+1.5*fs = 3.88+1.5*1.14 = 5.59
