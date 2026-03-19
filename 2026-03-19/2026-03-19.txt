@@ -28,3 +28,8 @@ E) No máximo podemos alterar até 2.74, ou seja 0.40, pq assim não alteramos a
 F) Com 18 dados: (adicionando 4.60)
 
 Xmed = 3.51 (Mediana) (Quantidade para -> Soma-se os dois valores centrais e divide-se por 2)
+Q1 = 2.74
+Q3 = 3.93 (sempre inclui a mediana) 
+
+fs = Q3-Q1
+   fs = 3.93-2.74 = 1.19
