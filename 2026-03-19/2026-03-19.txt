@@ -55,7 +55,7 @@ Observação: Nesse exercício não tem Outliers
 ________________________________________________________________________________________________________________
 
 Exercício 3:
-Tipo 1
+TIPO 1
 Xmed = 371
    Q1 = 364
    Q3 = 378
@@ -64,6 +64,49 @@ fs = Q3-Q1
    fs = 378-364 = 14
 
 Verificar outliers (Esses valores não vão no Boxplot)
-    Q1-1.5*fs = 364-1.5*1.14 = 343
-    Q3+1.5*fs = 378+1.5*1.14 = 399
+    Q1-1.5*fs = 364-1.5*14 = 343
+    Q3+1.5*fs = 378+1.5*14 = 399
+
+Desenhar o gráfico(boxplot):
+   Escolher uma escala (pode começar em 350 na vertical,  fazendo rachura no início)
+   Bigode vai até 350 (Não vai até o valor do outlier)
+   Bigode vai até 392 (Não vai até o valor do outlier)
+   Observação: Nesse exercício não tem Outliers
+
+TIPO 2
+Xmed = 371
+   Q1 = 364
+   Q3 = 378
+
+fs = Q3-Q1
+   fs = 378-364 = 14
+
+Verificar outliers (Esses valores não vão no Boxplot)
+    Q1-1.5*fs = 364-1.5*14 = 343
+    Q3+1.5*fs = 378+1.5*14 = 399
+
+Desenhar o gráfico(boxplot):
+   Escolher uma escala (pode começar em 350 na vertical,  fazendo rachura no início)
+   Bigode vai até 350 (Não vai até o valor do outlier)
+   Bigode vai até 392 (Não vai até o valor do outlier)
+   Observação: Nesse exercício não tem Outliers
+
+TIPO 3
+Xmed = 371
+   Q1 = 364
+   Q3 = 378
+
+fs = Q3-Q1
+   fs = 378-364 = 14
+
+Verificar outliers (Esses valores não vão no Boxplot)
+    Q1-1.5*fs = 364-1.5*14 = 343
+    Q3+1.5*fs = 378+1.5*14 = 399
+
+Desenhar o gráfico(boxplot):
+   Escolher uma escala (pode começar em 350 na vertical,  fazendo rachura no início)
+   Bigode vai até 350 (Não vai até o valor do outlier)
+   Bigode vai até 392 (Não vai até o valor do outlier)
+   Observação: Nesse exercício não tem Outliers
+
 
