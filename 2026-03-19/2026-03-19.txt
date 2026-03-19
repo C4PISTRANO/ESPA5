@@ -4,6 +4,7 @@ Estatística Descritiva - Exercícios Gerais
 
 PROVA 26/03/2026
 
+_______________________________________________________________________________________________________________
 
 Dispersão = como os dados são distribuídos
 
@@ -12,6 +13,9 @@ Dispersão = como os dados são distribuídos
 *Variância (Na média, quanto que cada valor se distancia do eixo central)
 *Desvio Padrão (Raiz da Variância)
 
+_______________________________________________________________________________________________________________
+
+Arequivo - Aula 3 - Estatística descritiva.pdf
 
 Exercício 2:
 A) Organizar dados
