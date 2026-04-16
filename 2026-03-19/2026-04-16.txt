@@ -30,3 +30,6 @@ ________________________________________________________________________________
 Coleta de Dados, problema do Cientrista de Dados.
 
 Exemplo doença:
+
+Calculo da sensibilidade = TP/P -> 
+Calculo Especificidade = TN/N ->
