@@ -10,8 +10,17 @@ P(A|B) = p(AnB) / p(b) = 0,3/0,4 = 0,75 -> 75% de probabilidade de compra
 de um cartão
 
 Exemplo:
-Vários eventos (A1, A2, A3...) condicionados ao evento B.
+Vários eventos (A1, A2, A3...) condicionados ao evento B:
 
-P(Ai|B) = p(AinB) / p(b)  
+P(Ai|B) = p(AinB) / p(B)  
+
 outra forma (Teorema de Bayes):
+P(Ai|B) = p(B|Ai)*p(A) / p(B)  
 
+Se não tiver p(B):
+P(Ai|B) = p(B|Ai)*p(Ai) / soma p(B|Ai)*p(Ai)
+
+______________________________________________________________________________________
+
+Exemplo da chuva:
+0,425 -> 42,5%
