@@ -33,3 +33,11 @@ Exemplo doença:
 
 Calculo da sensibilidade = TP/P -> 
 Calculo Especificidade = TN/N ->
+
+______________________________________________________________________________________
+
+Exemplo 2. Uma doença rara acomete apenas 1 em 1.000 adultos (ou seja, a probabilidade de
+uma pessoa ter a doença é de 0,1% ou 0,001).
+
+Chance:
+0,047/0,001 = 47x maior de ter a doença de quem não fez o teste.
