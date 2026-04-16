@@ -82,3 +82,7 @@ def probabilidade_chuva_dado_nublado():
 if __name__ == "__main__":
     resultado = probabilidade_chuva_dado_nublado()
 Saída da execução
+
+______________________________________________________________________________________
+
+^^^^ USAR FUNÇÃO ACIMA PARA RESOLVER OS EXERCÌCIOS ^^^^
