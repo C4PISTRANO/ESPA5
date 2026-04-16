@@ -48,3 +48,37 @@ Exercício 4.
 Tabela de contigência
 
 
+
+______________________________________________________________________________________
+!!! CAI NA PROVA PRÁTICA !!!
+
+#@title **Resolução**
+
+def probabilidade_chuva_dado_nublado():
+
+    # Probabilidades dadas no problema
+    P_N = 0.40          # P(Nublado)
+    P_C = 0.20          # P(Chuva)
+    P_N_dado_C = 0.85   # P(Nublado | Chuva)
+
+    # Cálculo usando Teorema de Bayes:
+    # P(C | N) = [P(N | C) * P(C)] / P(N)
+
+
+    P_C_dado_N = P_N_dado_C * P_C/P_N
+
+    # Exibição dos resultados
+    print("=== Cálculo da Probabilidade de Chuva Dado Nublado ===")
+    print(f"Probabilidade de estar nublado (P(N))          : {P_N:.2%}")
+    print(f"Probabilidade de chuva (P(C))                  : {P_C:.2%}")
+    print(f"Probabilidade de nublado dado chuva (P(N|C))   : {P_N_dado_C:.2%}")
+    print("-" * 55)
+    print(f"Probabilidade de chover se estiver nublado:")
+    print(f"P(C | N) = {P_C_dado_N:.4f} ou {P_C_dado_N:.2%}")
+
+    return P_C_dado_N
+
+
+if __name__ == "__main__":
+    resultado = probabilidade_chuva_dado_nublado()
+Saída da execução
