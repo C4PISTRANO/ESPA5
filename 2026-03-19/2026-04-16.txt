@@ -1,0 +1,11 @@
+Propriedades de probabilidade e Teorema de Bayes
+
+Exemplo 01:
+
+p(A) = 0,6
+p(B) = 0,4
+p(AnB) = 0,3 (intersecção)
+
+P(A|B) = p(AnB) / p(b) = 0,3/0,4 = 0,75 -> 75% de probabilidade de compra
+de um cartão
+
