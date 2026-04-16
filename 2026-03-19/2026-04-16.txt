@@ -9,3 +9,9 @@ p(AnB) = 0,3 (intersecção)
 P(A|B) = p(AnB) / p(b) = 0,3/0,4 = 0,75 -> 75% de probabilidade de compra
 de um cartão
 
+Exemplo:
+Vários eventos (A1, A2, A3...) condicionados ao evento B.
+
+P(Ai|B) = p(AinB) / p(b)  
+outra forma (Teorema de Bayes):
+
