@@ -37,7 +37,7 @@ n = 6 (pessoas)
 p = 0,5 (50%)
 x = 3 (número de sucessos)
 
-p(x) = (n x) p^x * (1-p)^n-x
+Resultado 31%
 
 
 
