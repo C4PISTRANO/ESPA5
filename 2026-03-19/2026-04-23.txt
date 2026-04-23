@@ -53,7 +53,7 @@ x = 8
 
 ______________________________________________________________________________________________________
 
+Distribuição hipergeométrica  (como funciona o sorteio da loteria) (apenas para curiosidade)
 
-
-
+Distribuição Binomial Negativa quando não temos o número de tentativas
 
