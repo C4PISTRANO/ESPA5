@@ -39,5 +39,8 @@ x = 3 (número de sucessos)
 
 Resultado 31%
 
+Pelo menos 3 (3<= X)
+
+No máximo 1 (X <= 1)
 
 
