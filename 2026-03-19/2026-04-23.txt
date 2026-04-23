@@ -26,3 +26,5 @@ ________________________________________________________________________________
 regra geral da probabilidade:
 
 p(x) = (n x) p^x * (1-p)^n-x
+
+*para não ficar repetindo add o fator de ... (n      x)
