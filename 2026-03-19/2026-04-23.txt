@@ -28,3 +28,16 @@ regra geral da probabilidade:
 p(x) = (n x) p^x * (1-p)^n-x
 
 *para não ficar repetindo add o fator de ... (n      x)
+
+______________________________________________________________________________________________________
+
+Exemplo pág. 6
+
+n = 6 (pessoas)
+p = 0,5 (50%)
+x = 3 (número de sucessos)
+
+p(x) = (n x) p^x * (1-p)^n-x
+
+
+
