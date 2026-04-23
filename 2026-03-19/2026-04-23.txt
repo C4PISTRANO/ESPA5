@@ -1,9 +1,9 @@
-binomial:
-Tendência central -> F.D.P
-Elevando -> F.D.A.
+Binomial:
+Grafico com Tendência central -> F.D.P
+Grafico Elevando -> F.D.A.
 
 Modelo para ser Binomial:
 N tentativas (Total de tentativas)
-X sucessos (número de sucessos)
+X sucessos (Número de sucessos)
 P fixa (Probabilidade constante)
 
