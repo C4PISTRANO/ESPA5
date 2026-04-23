@@ -7,3 +7,19 @@ N tentativas (Total de tentativas)
 X sucessos (Número de sucessos)
 P fixa (Probabilidade constante)
 
+______________________________________________________________________________________________________
+
+Distribuição de Probabilidade Binomial
+Há diversos experimentos que satisfazem exatamente ou aproximadamente a seguinte lista de
+requisitos:
+1. O experimento consiste em uma sequência de n experimentos menores denominados
+tentativas, onde n é estabelecido antes do experimento.
+2. Cada tentativa pode resultar em um de dois resultados possíveis (tentativas
+dicotômicas), chamados de sucesso (S) ou falha (F).
+3. As tentativas são independentes, de forma que o resultado de qualquer tentativa
+particular não influencia o resultado de qualquer outra tentativa.
+4. A probabilidade de sucesso é constante de uma tentativa para a outra. Denominamos
+essa probabilidade p.
+
+______________________________________________________________________________________________________
+
