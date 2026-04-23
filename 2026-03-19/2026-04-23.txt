@@ -59,9 +59,14 @@ Distribuição Binomial Negativa quando não temos o número de tentativas
 
 ______________________________________________________________________________________________________
 
-Distribuição de probabilidade de Poisson (Quando temos uma taxa [lambda] - referente ao espaço ou tempo)
+Distribuição de probabilidade de Poisson (Quando temos uma taxa (média) [lambda] - referente ao espaço ou tempo)
 
 sucesso e falha
 
 e = 2,71 -> constante da matemática
+
+______________________________________________________________________________________________________
+
+Exemplo pág. 9
+
 
