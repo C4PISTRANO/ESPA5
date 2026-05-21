@@ -52,4 +52,5 @@ Verificar se temos alguma anomalia.
 
 **** Fazer somente o teste, não precisa o gráfico.
 
+Aula que vem, discute os exercícios:
 
