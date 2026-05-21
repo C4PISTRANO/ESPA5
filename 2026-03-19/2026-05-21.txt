@@ -1,0 +1,5 @@
+Prova:
+
+vai ser igual o exercício 5 do arquivo "Inferencia_aula_2.ipynb"
+
+Exercicio 5 do arquivo "Aula 2 - Inferência_Python.pdf"
