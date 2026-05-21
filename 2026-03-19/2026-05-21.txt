@@ -7,3 +7,28 @@ Exercicio 5 do arquivo "Aula 2 - Inferência_Python.pdf"
 25% - Quartil 1
 50%   mediana
 75%   Quartil 2
+
+Boxplot fornece a visão das diferenças, mostra os outliers
+
+Histograma -> Testar a normalidade
+
+Se é normal?? (Mostra tendenciacentral??)
+
+QQ plot: 
+É normal??
+Quanto mais proximo da linha mais chance de ser normal.
+
+shapiro-wilk:
+faz a comparacão da ormal teorica com o antes
+faz a comparacão da ormal teorica com o depois
+se for maior que 0.05 -> é normal
+
+Hipotese nula:
+
+Mesmo que não conseguir mostrar que é normal, podemos continuar. Pq é um teste robusto.
+
+
+Teste de variância: 
+2.00e⁰5 == 0,00002 (2.00*10^(-5)
+
+
