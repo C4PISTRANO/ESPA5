@@ -39,3 +39,4 @@ t_stat, t_pvalue = stats.ttest_rel(tabela['antes'], tabela['depois'], axis=0, na
 
 Verfificar se é menor que 0,05, alternativa que tem diferença.
 
+***Não precisa fazer o gráfico.
