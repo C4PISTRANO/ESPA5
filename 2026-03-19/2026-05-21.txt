@@ -35,3 +35,7 @@ Teste pareado = testar antes e depois
 
 # Teste t pareado (pareado: comparando a mesma amostra - do tipo antes e depois)
 t_stat, t_pvalue = stats.ttest_rel(tabela['antes'], tabela['depois'], axis=0, nan_policy='propagate', alternative='two-sided')
+( alternative='two-sided' = tem diferença entre antes e depois)
+
+Verfificar se é menor que 0,05, alternativa que tem diferença.
+
