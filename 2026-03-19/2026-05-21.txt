@@ -40,3 +40,15 @@ t_stat, t_pvalue = stats.ttest_rel(tabela['antes'], tabela['depois'], axis=0, na
 Verfificar se é menor que 0,05, alternativa que tem diferença.
 
 ***Não precisa fazer o gráfico.
+
+
+
+
+CHI QUADRADO:
+(estamos usando para mostrar o seguinte se a proporção da minha amostra tem diferença com os dados brasileiros (valor de referencia))
+(Provar que a extratificação reflete a do país)
+Verificar se temos alguma anomalia.
+
+**** Fazer somente o teste, não precisa o gráfico.
+
+
