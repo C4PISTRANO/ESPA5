@@ -31,4 +31,7 @@ Mesmo que não conseguir mostrar que é normal, podemos continuar. Pq é um test
 Teste de variância: 
 2.00e⁰5 == 0,00002 (2.00*10^(-5)
 
+Teste pareado = testar antes e depois
 
+# Teste t pareado (pareado: comparando a mesma amostra - do tipo antes e depois)
+t_stat, t_pvalue = stats.ttest_rel(tabela['antes'], tabela['depois'], axis=0, nan_policy='propagate', alternative='two-sided')
